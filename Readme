@@ -1,4 +1,4 @@
-# Option Pricing and Derivative Strategy Design on Reliance Industries
+#Option Pricing and Derivative Strategy Design on Reliance Industries
 
 This repository contains the source code and project report for analyzing option prices and designing derivative trading strategies for Reliance Industries (RELIANCE.NS). The project utilizes Python to implement theoretical models such as the Black-Scholes formula and Monte Carlo simulation to evaluate market strategies under varying conditions.
 
